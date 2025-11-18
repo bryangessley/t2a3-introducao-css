@@ -1,0 +1,43 @@
+body {
+    color: white;
+    background-color: #121214;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h3 {
+    color: #8d8d99;
+}
+
+header {
+    box-sizing: border-box;
+    width: 100%; /** comentario */
+    padding: 20px;
+    background-color: #202024;
+    margin-bottom: 92px;
+}
+
+#logotipo {
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1120px;
+    background-color: #202024;
+    margin: 0 auto;
+    padding: 24px 64px;
+    text-align: center;
+}
+
+#foto-perfil {
+    border-radius: 10px;
+    border: 2px solid #ea488f;
+    padding: 12px;
+}
+/* img {
+    border: 2px solid #ea488f;
+} */
